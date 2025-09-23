@@ -9,7 +9,7 @@
 
 # Laravel Testing Project
 
-![mferdiyar-pian](https://github.com/mferdiyar-pian/ferdiy66.git)
+![mferdiyar-pian](https://github.com/mferdiyar-pian/ferdiy66/actions/workflows/laravel-tests.yml/badge.svg)
 
 ## About Laravel
 
